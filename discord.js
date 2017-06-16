@@ -34,4 +34,4 @@ const embed = {
     }
   ]
 };
-channel.send({ embed });
+channel.send({ embed }); 
